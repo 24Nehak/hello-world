@@ -1,2 +1,5 @@
 # hello-world
-This is demo repo to learn
+
+Hi,
+I like front end development.
+I work on Angular,htnl,css,JS,Python
